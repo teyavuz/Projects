@@ -88,63 +88,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="210 Medical DOC\css\font-awesome.min.css" />
-    <Content Include="210 Medical DOC\css\main.css" />
-    <Content Include="210 Medical DOC\css\normalize.min.css" />
-    <Content Include="210 Medical DOC\fonts\fontawesome-webfont.svg" />
-    <Content Include="210 Medical DOC\img\logo.png" />
-    <Content Include="210 Medical DOC\index.html" />
-    <Content Include="210 Medical DOC\js\custom.js" />
-    <Content Include="210 Medical DOC\js\jquery-1.11.0.min.js" />
-    <Content Include="210 Medical DOC\js\jquery.nav.js" />
-    <Content Include="210 Medical DOC\syntax-highlighter\scripts\shAutoloader.js" />
-    <Content Include="210 Medical DOC\syntax-highlighter\scripts\shBrushAppleScript.js" />
-    <Content Include="210 Medical DOC\syntax-highlighter\scripts\shBrushAS3.js" />
-    <Content Include="210 Medical DOC\syntax-highlighter\scripts\shBrushBash.js" />
-    <Content Include="210 Medical DOC\syntax-highlighter\scripts\shBrushColdFusion.js" />
-    <Content Include="210 Medical DOC\syntax-highlighter\scripts\shBrushCpp.js" />
-    <Content Include="210 Medical DOC\syntax-highlighter\scripts\shBrushCSharp.js" />
-    <Content Include="210 Medical DOC\syntax-highlighter\scripts\shBrushCss.js" />
-    <Content Include="210 Medical DOC\syntax-highlighter\scripts\shBrushDelphi.js" />
-    <Content Include="210 Medical DOC\syntax-highlighter\scripts\shBrushDiff.js" />
-    <Content Include="210 Medical DOC\syntax-highlighter\scripts\shBrushErlang.js" />
-    <Content Include="210 Medical DOC\syntax-highlighter\scripts\shBrushGroovy.js" />
-    <Content Include="210 Medical DOC\syntax-highlighter\scripts\shBrushJava.js" />
-    <Content Include="210 Medical DOC\syntax-highlighter\scripts\shBrushJavaFX.js" />
-    <Content Include="210 Medical DOC\syntax-highlighter\scripts\shBrushJScript.js" />
-    <Content Include="210 Medical DOC\syntax-highlighter\scripts\shBrushPerl.js" />
-    <Content Include="210 Medical DOC\syntax-highlighter\scripts\shBrushPhp.js" />
-    <Content Include="210 Medical DOC\syntax-highlighter\scripts\shBrushPlain.js" />
-    <Content Include="210 Medical DOC\syntax-highlighter\scripts\shBrushPowerShell.js" />
-    <Content Include="210 Medical DOC\syntax-highlighter\scripts\shBrushPython.js" />
-    <Content Include="210 Medical DOC\syntax-highlighter\scripts\shBrushRuby.js" />
-    <Content Include="210 Medical DOC\syntax-highlighter\scripts\shBrushSass.js" />
-    <Content Include="210 Medical DOC\syntax-highlighter\scripts\shBrushScala.js" />
-    <Content Include="210 Medical DOC\syntax-highlighter\scripts\shBrushSql.js" />
-    <Content Include="210 Medical DOC\syntax-highlighter\scripts\shBrushVb.js" />
-    <Content Include="210 Medical DOC\syntax-highlighter\scripts\shBrushXml.js" />
-    <Content Include="210 Medical DOC\syntax-highlighter\scripts\shLegacy.js" />
-    <Content Include="210 Medical DOC\syntax-highlighter\styles\shCore.css" />
-    <Content Include="210 Medical DOC\syntax-highlighter\styles\shCoreDefault.css" />
-    <Content Include="210 Medical DOC\syntax-highlighter\styles\shCoreDjango.css" />
-    <Content Include="210 Medical DOC\syntax-highlighter\styles\shCoreEclipse.css" />
-    <Content Include="210 Medical DOC\syntax-highlighter\styles\shCoreEmacs.css" />
-    <Content Include="210 Medical DOC\syntax-highlighter\styles\shCoreFadeToGrey.css" />
-    <Content Include="210 Medical DOC\syntax-highlighter\styles\shCoreMDUltra.css" />
-    <Content Include="210 Medical DOC\syntax-highlighter\styles\shCoreMidnight.css" />
-    <Content Include="210 Medical DOC\syntax-highlighter\styles\shCoreRDark.css" />
-    <Content Include="210 Medical DOC\syntax-highlighter\styles\shThemeDefault.css" />
-    <Content Include="210 Medical DOC\syntax-highlighter\styles\shThemeDjango.css" />
-    <Content Include="210 Medical DOC\syntax-highlighter\styles\shThemeEclipse.css" />
-    <Content Include="210 Medical DOC\syntax-highlighter\styles\shThemeEmacs.css" />
-    <Content Include="210 Medical DOC\syntax-highlighter\styles\shThemeFadeToGrey.css" />
-    <Content Include="210 Medical DOC\syntax-highlighter\styles\shThemeMDUltra.css" />
-    <Content Include="210 Medical DOC\syntax-highlighter\styles\shThemeMidnight.css" />
-    <Content Include="210 Medical DOC\syntax-highlighter\styles\shThemeRDark.css" />
     <Content Include="about.html" />
     <Content Include="blog.html" />
     <Content Include="contact.html" />
-    <Content Include="contact_process.php" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
@@ -324,11 +270,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\web.config" />
-    <Content Include="210 Medical DOC\.vscode\settings.json" />
-    <Content Include="210 Medical DOC\fonts\fontawesome-webfont.eot" />
-    <Content Include="210 Medical DOC\fonts\fontawesome-webfont.ttf" />
-    <Content Include="210 Medical DOC\fonts\fontawesome-webfont.woff" />
-    <Content Include="210 Medical DOC\fonts\FontAwesome.otf" />
     <Content Include="css\style.map" />
     <Content Include="css\theme-default.map" />
     <Content Include="fonts\fa-brands-400.eot" />
